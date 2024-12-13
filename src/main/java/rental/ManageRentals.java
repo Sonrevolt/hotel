@@ -13,6 +13,7 @@ import static rental.SearchRentalsInDatabase.searchRentalsInDatabase;
 public class ManageRentals {
     public static void manageRentals(Scanner scanner) {
         while (true) {
+            System.out.println("\n--- RENTAL MANAGEMENT ---");
             System.out.println("1. Add Rental");
             System.out.println("2. Display Rentals");
             System.out.println("3. Search Rentals");

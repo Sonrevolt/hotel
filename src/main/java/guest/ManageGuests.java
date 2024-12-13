@@ -13,7 +13,7 @@ import static main.MainGuest.*;
 public class ManageGuests {
     public static void manageGuests(Scanner scanner) {
         while (true) {
-            System.out.println("Manage Guests");
+            System.out.println("\n--- GUEST MANAGEMENT ---");
             System.out.println("1. Add Guest");
             System.out.println("2. Display Guests");
             System.out.println("3. Search Guests");

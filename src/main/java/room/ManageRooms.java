@@ -11,7 +11,11 @@ import static room.SearchRoomsInDatabase.searchRoomsInDatabase;
 public class ManageRooms {
     public static void manageRooms(Scanner scanner) {
         while (true) {
-            System.out.println("1. Add Room\n2. Display Rooms\n3. Search Room\n4. Back");
+            System.out.println("\n--- ROOM MANAGEMENT ---");
+            System.out.println("1. Add Room");
+            System.out.println("2. Display Rooms");
+            System.out.println("3. Search Room");
+            System.out.println("4. Back");
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume newline
             switch (choice) {

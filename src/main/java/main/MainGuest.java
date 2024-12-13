@@ -24,7 +24,7 @@ public class MainGuest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("Hotel Management System");
+            System.out.println("\n --- HOTEL MANAGEMENT --- ");
             System.out.println("1. Manage Guests");
             System.out.println("2. Manage Rooms");
             System.out.println("3. Manage Rentals");

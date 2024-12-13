@@ -57,6 +57,11 @@
       <change afterPath="$PROJECT_DIR$/../string2/src/string/StringUpperLower.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../string2/src/stringbuilder/StringBuild.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../string2/string2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/guest/ManageGuests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guest/ManageGuests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainGuest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/MainGuest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rental/ManageRentals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rental/ManageRentals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/room/ManageRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/room/ManageRooms.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
