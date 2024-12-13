@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 import static rental.AddRental.addRental;
 import static rental.CancelRental.cancelRental;
+import static rental.DisplayFrequentGuests.displayFrequentGuests;
+import static rental.DisplayMaleGuestsWithLongStays.displayMaleGuestsWithLongStays;
 import static rental.DisplayRentalsFromDatabase.displayRentalsFromDatabase;
 import static rental.DisplayRentalsWithinDateRange.displayRentalsWithinDateRange;
 import static rental.SearchRentalsInDatabase.searchRentalsInDatabase;
@@ -16,7 +18,9 @@ public class ManageRentals {
             System.out.println("3. Search Rentals");
             System.out.println("4. Cancel Rental");
             System.out.println("5. Display Rentals Within Date Range");
-            System.out.println("6. Back to Main Menu");
+            System.out.println("6. Display Male Guests with Long Stays");
+            System.out.println("7. Display Frequent Guests");
+            System.out.println("8. Back to Main Menu");
             System.out.print("Choose an option: ");
             int choice = scanner.nextInt();
 
@@ -37,15 +41,16 @@ public class ManageRentals {
                     displayRentalsWithinDateRange(scanner);
                     break;
                 case 6:
+                    displayMaleGuestsWithLongStays();
+                    break;
+                case 7:
+                    displayFrequentGuests();
+                    break;
+                case 8:
                     return;
                 default:
                     System.out.println("Invalid option. Please try again.");
             }
         }
     }
-
-    //System.out.print("Enter search keyword: ");
-    //String keyword = scanner.nextLine();
-    //searchRentalsInDatabase(keyword);
-    //break;
 }
