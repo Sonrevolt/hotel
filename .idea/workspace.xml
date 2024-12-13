@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ede575-5f1a-4c34-903a-b58559f17b6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java 1/Java 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java 2/Java 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oops/Oops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collection/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception/exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/src/readfile/File2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/src/readfile/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/src/serializable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/src/serializable/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/src/serializable/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/model/BorrowRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library2/src/main/java/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library2/src/main/java/model/BorrowRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library2/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library3/src/main/java/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library3/src/main/java/model/BorrowRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library3/src/main/java/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newOops/newOops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solid/solid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringCharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringConCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/string/StringUpperLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/src/stringbuilder/StringBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string2/string2.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/hotel" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/hotel" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/main/MainGuest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2q44RWab2aB1OtBLqBvyyBfk2Hk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ede575-5f1a-4c34-903a-b58559f17b6e" name="Changes" comment="" />
+      <created>1733908507285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733908507285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
